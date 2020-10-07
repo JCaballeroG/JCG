@@ -21,6 +21,7 @@ public class JavaApplication1 {
         System.out.println("Hola Mundo");
         System.out.println("Qué tal va todo?");
         System.out.println("sout+tabulador=atajo");
+        System.out.println("Prueba");
     }
     
 }
