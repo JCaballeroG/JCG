@@ -22,7 +22,12 @@ public class JavaApplication1 {
         System.out.println("Qué tal va todo?");
         System.out.println("sout+tabulador=atajo");
         System.out.println("Prueba");
-        System.out.println("Prueb 2");
+        System.out.println("Prueba 2");
+        System.out.println("╔═══╗ ♪\n" +
+                           "║███║ ♫\n" +
+                           "║ (●) ♫\n" +
+                
+                           "╚═══╝♪♪");
     }
     
 }
